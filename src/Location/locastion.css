@@ -1,0 +1,15 @@
+.location2 {
+    width: 80%;
+}
+
+@media (max-width: 768px) {
+    .location2 {
+        width: 100%;
+    }
+}
+
+@media (max-width: 576px) {
+    .location2 {
+        width: 70%;
+    }
+}
